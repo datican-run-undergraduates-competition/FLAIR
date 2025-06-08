@@ -1,9 +1,8 @@
 # Flair Chatbot
 
-Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations using Hugging Face APIs. Featuring a world-class, grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. This project is built for a demo on June 9, 2025, and is hosted on Netlify with a serverless backend on Google Cloud Functions.
-
+Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations using Hugging Face APIs. Featuring a world-class, grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. 
 ## Demo
-- Live Demo: [Add your Netlify URL after deployment](#deploy-to-netlify)
+- Live Demo: [flair/chat](#deploy-to-netlify)
 - Local Demo: Run at `http://localhost:3000`
 
 ## Features
@@ -275,5 +274,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ## Contact
 For questions or support, contact:
 - Author: Ignatius Emmanuel
-- Email: inyangignatius@hotmail.com (replace with your email)
+- Email: inyangignatius@hotmail.com 
 - GitHub: [ignatius-kara](https://github.com/ignatius-kara)
