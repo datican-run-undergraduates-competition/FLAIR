@@ -1,4 +1,4 @@
-# Flair Chatbot
+# Flair Chatbot -KARACAN
 
 Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations using Hugging Face APIs. Featuring a world-class, grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. 
 ## Demo
