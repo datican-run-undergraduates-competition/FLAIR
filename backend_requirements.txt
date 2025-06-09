@@ -1,0 +1,6 @@
+fastapi==0.103.2
+uvicorn==0.23.2
+google-cloud-functions==1.0.0
+requests==2.31.0
+firebase-admin==6.5.0
+pydantic==2.4.2

@@ -1,10 +1,10 @@
-# Contributing to Flair
+# Contributing to Flair Chatbot
 
 Thanks for helping with Flair!
 
 ## How to Help
 1. Fork the project on GitHub.
-2. Clone it: `git clone your-fork-url`.
+2. Clone it: `git clone your-fork-url`
 3. Make changes and test them.
 4. Submit a pull request.
 
@@ -15,4 +15,4 @@ Use the bug report form in Issues.
 Use the feature request form in Issues.
 
 ## Questions?
-Email support@flair.com.
+Email: your-email@example.com

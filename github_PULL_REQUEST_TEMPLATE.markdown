@@ -1,4 +1,4 @@
-## What’s Changed?
+## What's Changed?
 Describe your changes.
 
 ## Related Issue
