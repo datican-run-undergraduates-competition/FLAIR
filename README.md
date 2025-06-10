@@ -1,6 +1,6 @@
 # Flair Chatbot -KARACAN
 
-Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations using Hugging Face APIs. Featuring a world-class, grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. 
+Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations using Hugging Face APIs. Featuring a world-class user intuitive platform with a grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. 
 ## Demo
 - Live Demo: [flair/chat](#deploy-to-netlify)
 - Local Demo: Run at `http://localhost:3000`
@@ -8,7 +8,7 @@ Flair Chatbot is an AI-powered mental health companion designed to provide suppo
 ## Features
 - AI-Powered Chat:
   - Text Generation: Hugging Face `mistralai/Mixtral-8x7B-Instruct-v0.1` for supportive conversational responses.
-  - Sentiment Analysis: `distilbert-base-uncased-finetuned-sst-2-english` to detect user emotions (e.g., "POSITIVE" or "NEGATIVE").
+  - Sentiment Analysis: KARACAN-M1 `distilbert-base-uncased-finetuned-sst-2-english` to detect user emotions (e.g., "POSITIVE" or "NEGATIVE").
   - Question Answering: `deepset/roberta-base-squad2` for context-based Q&A.
 - User Interface: Inspired by [grok.com](https://grok.com), with a sleek dark theme, animated landing page, and modern chat interface (bubbles, typing indicator).
 - Authentication: Firebase Authentication with email/password and Google sign-in.
@@ -20,7 +20,7 @@ Flair Chatbot is an AI-powered mental health companion designed to provide suppo
 ## Tech Stack
 - Frontend: React, Tailwind CSS, Framer Motion, React Router
 - Backend: Google Cloud Functions, FastAPI, Firebase Admin SDK
-- AI: Hugging Face Inference API (Mixtral, DistilBERT, RoBERTa)
+- AI: KARACAN-M1,Hugging Face Inference API (Mixtral, DistilBERT, RoBERTa)
 - Auth: Firebase Authentication
 - Edge: Cloudflare Workers
 - Hosting: Netlify
@@ -28,7 +28,7 @@ Flair Chatbot is an AI-powered mental health companion designed to provide suppo
 
 ## Prerequisites
 To set up and run Flair Chatbot, you need:
-- Hardware: Windows PC (based on your path: `C:\Users\IGNATIUS EMMANUEL`)
+- Hardware: Windows PC (based on your path: `C:\Users\~`)
 - Software:
   - Node.js 18+ ([nodejs.org](https://nodejs.org))
   - Git ([git-scm.com](https://git-scm.com))
@@ -120,7 +120,7 @@ Follow these steps to set up the project on your Windows PC.
 1. Google Cloud Functions:
    - Navigate to backend:
      ```cmd
-     cd C:\Users\IGNATIUS EMMANUEL\onedrive\documents\github\flair\flair-chatbot\backend
+     cd C:\User\~
      ```
    - Deploy:
      ```cmd
@@ -144,7 +144,7 @@ Follow these steps to set up the project on your Windows PC.
 ### 6. Install Frontend Dependencies
 1. Navigate to project root:
    ```cmd
-   cd C:\Users\IGNATIUS EMMANUEL\onedrive\documents\github\flair\flair-chatbot
+   cd C:~flair\flair-chatbot
    ```
 2. Install:
    ```cmd
@@ -214,30 +214,7 @@ flair-chatbot/
 ├── worker.js
 ```
 
-## For the Demo (June 9, 2025)
-- Showcase:
-  - Use the Netlify URL or `http://localhost:3000`.
-  - Navigate through:
-    - Landing page (highlight grok.com-inspired design).
-    - Sign-up/sign-in with email or Google.
-    - Chat interface with messages like:
-      - “I’m feeling sad” (shows sentiment analysis).
-      - Context: “I’m stressed about work”, Question: “What should I do?” (shows Q&A).
-  - Highlight:
-    - World-class UI with animations and accessibility.
-    - Hugging Face APIs for text generation, sentiment, and Q&A.
-    - Firebase authentication.
-    - Cloudflare Workers for low-latency responses.
-    - Responsive design for mobile users.
-- **Talking Points**:
-  - “Flair Chatbot is a mental health companion built with free Hugging Face APIs, offering supportive chats, sentiment analysis, and Q&A.”
-  - “The UI is inspired by grok.com, with a modern, animated, and accessible design.”
-  - “It uses Firebase for secure authentication, Google Cloud for the backend, and Cloudflare for edge computing, all hosted on Netlify.”
-  - “Future plans include mood tracking, a mobile app, and additional AI integrations.”
-- **Fallback**:
-  - If the live demo fails, show the GitHub repository: `https://github.com/your-username/flair-chatbot`.
-  - Use screenshots of the landing page, auth, and chat (take from `http://localhost:3000`).
-  - Explain the setup and features verbally.
+
 
 ## Troubleshooting
 - Hugging Face API Errors:
@@ -273,6 +250,6 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## Contact
 For questions or support, contact:
-- Author: Ignatius Emmanuel
-- Email: inyangignatius@hotmail.com 
+- Authors: KARACAN
+- Email: karaitservices@gmail.com 
 - GitHub: [ignatius-kara](https://github.com/ignatius-kara)
