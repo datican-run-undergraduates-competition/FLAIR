@@ -1,6 +1,6 @@
 # Flair Chatbot -KARACAN
 
-Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations using Hugging Face APIs. Featuring a world-class user intuitive platform with a grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. 
+Flair Chatbot is an AI-powered mental health companion designed to provide supportive conversations Featuring a world-class user intuitive platform with a grok.com-inspired user interface, user authentication, and edge computing for low-latency responses, Flair offers a modern, accessible, and responsive experience. 
 ## Demo
 - Live Demo: [flair/chat](#deploy-to-netlify)
 - Local Demo: Run at `http://localhost:3000`
